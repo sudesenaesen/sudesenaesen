@@ -20,8 +20,8 @@ Identified root causes of waste and downtime
 📌 Social Impact – TÜBİTAK Project
 Contributed to translating educational materials into sign language
 Focused on accessibility and inclusivity
-🛠 Technical Skills
 
+🛠 Technical Skills
 Process & Quality
 VSM, DVSM, Lean Manufacturing, Six Sigma
 TQM, APQP, SPC, FMEA
@@ -83,8 +83,8 @@ Tasarım: SolidWorks
 
 🌍 Diller ve Sertifikalar
 İngilizce: B2
-
 İşaret Dili Sertifikası
+
 📫 Bana Ulaşın
 💼 LinkedIn: linkedin.com/in/sudesenaesen
 📧 E-posta: sudesenaesen2005@gmail.com
