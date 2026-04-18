@@ -19,27 +19,27 @@ Identified root causes of waste and downtime
 
 📌 Social Impact – TÜBİTAK Project
 Contributed to translating educational materials into sign language
-Focused on accessibility and inclusivity
+Focused on accessibility and inclusivity  
 
 🛠 Technical Skills
 Process & Quality
 VSM, DVSM, Lean Manufacturing, Six Sigma
-TQM, APQP, SPC, FMEA
+TQM, APQP, SPC, FMEA  
 
 Planning & Operations
 Demand Forecasting, EOQ, MRP
-Segmentation Analysis
+Segmentation Analysis   
 
-Tools & Technologies
+Tools & Technologies 
 Programming: Python, C++
 Analysis: LINGO, Advanced Excel
-Design: SolidWorks
+Design: SolidWorks  
 
 🌍 Languages & Certifications
 English: B2
-Turkish Sign Language Certificate
-📫 Contact Me
+Turkish Sign Language Certificate  
 
+📫 Contact Me
 💼 LinkedIn: linkedin.com/in/sudesenaesen
 📧 Email: sudesenaesen2005@gmail.com
 
